@@ -7,7 +7,7 @@ import { ApiService } from '../api.service';
   styleUrl: './purchase.component.css'
 })
 export class PurchaseComponent {
-
+//con
   constructor(private apiService: ApiService ) {}
 
 
